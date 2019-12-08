@@ -1,0 +1,17 @@
+{
+  "name": "google-home-receiver",
+  "version": "1.0.0",
+  "description": "for manipulating google home.",
+  "main": "index.js",
+  "scripts": {
+    "sp4-waker": "sudo ps4-waker",
+    "sp4-standby": "sudo ps4-waker standby",
+    "sp4-mhw": "sudo ps4-waker start CUSA06027",
+  },
+  "author": "mmorito@mnes.org",
+  "license": "MIT",
+  "dependencies": {
+    "ps4-waker": "^1.4.3",
+    "firebase": "^5.0.4"
+  }
+}
