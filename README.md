@@ -1,4 +1,4 @@
-# psn-operetor
+# psn-operator
 Google Home からPS4を操作する
 
 ## Overview
